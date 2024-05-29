@@ -5,5 +5,21 @@ Esta es una aplicación de gestión de tareas desarrollada en Python. Permite ag
 - Tkinter (incluido en la instalación estándar de Python)
 ## Instalación
 1. Clona este repositorio:
-```bash
+```
+bash
 git clone https://github.com/MatiasAquinoC/GestorTareas.git
+```
+
+### Estructura del proyecto
+
+```
+gestor_tareas/
+├── tests/
+│ └── test_gestor_tareas.py
+├── src/
+│ ├── logica
+│ │ └── test_gestor_tareas.py
+│ └── vista
+│ └── gui_gestor_tareas.py
+└── README.md
+```
