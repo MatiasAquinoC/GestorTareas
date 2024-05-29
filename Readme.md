@@ -6,4 +6,4 @@ Esta es una aplicación de gestión de tareas desarrollada en Python. Permite ag
 ## Instalación
 1. Clona este repositorio:
 ```bash
-git clone <URL_del_repositorio>```
+git clone https://github.com/MatiasAquinoC/GestorTareas.git
